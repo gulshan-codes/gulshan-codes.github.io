@@ -1,2 +1,2 @@
-# gulshan-codes.github.io
+# gulshanverma.github.io
 Personal portfolio website for Gulshan Verma.
